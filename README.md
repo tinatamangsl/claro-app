@@ -115,7 +115,6 @@ This is the **first demo of bidirectional voice task management during a commute
 
 **Additional creative ClawdTalk integrations:**
 - "Calls by Telnyx · Voice by ClawdTalk" — clearly badged on every audio interaction
-- Telnyx promo code `CLAW_HACKATHON_26` prominently displayed on the Commute page
 - ClawHouse AI agent floating on every page — ask questions, update tasks, get briefings by voice or chat
 - Resemble AI Chatterbox TTS — Lucy voice persona, clearly attributed in the UI with animated waveform
 
@@ -150,7 +149,7 @@ Promo code: `CLAW_HACKATHON_26`
 | Frontend | React + TypeScript + Vite | SPA with glassmorphism design |
 | Backend | Express.js + SQLite | REST API + persistence |
 | Styling | Tailwind CSS + shadcn/ui | Design system |
-| Builder | Lovable | Rapid UI + GitHub 2-way sync |
+| Builder | Lovable + Perplexity | Rapid UI + GitHub 2-way sync |
 
 ---
 
